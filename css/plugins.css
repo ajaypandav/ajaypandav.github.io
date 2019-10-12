@@ -1,0 +1,29 @@
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("plugins/bootstrap.min.css");
+
+/* == animate css == */
+@import url("plugins/animate.min.css");
+
+/* == themify-icons icon font == */
+@import url("plugins/themify-icons.css");
+
+/* == fontawesome icon font == */
+@import url("plugins/fontawesome-all.min.css");
+
+/* == pagepiling == */
+@import url("plugins/jquery.pagepiling.min.css");
+
+/* == magnific-popup == */
+@import url("plugins/magnific-popup.min.css");
+
+/* == Slick== */
+@import url("plugins/slick.css");
+@import url("plugins/slick-theme.css");
+
+
+/* == helper classes == */
+@import url("plugins/helper.css");
